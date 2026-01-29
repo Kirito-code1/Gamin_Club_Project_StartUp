@@ -48,7 +48,7 @@ export default function App() {
                         rounded-[8px]
                         bg-gradient-to-br from-[#06B6D4] to-[#9333EA]
                         ">
-                            <img src="public/images/increase.svg" alt="" />
+                            <img src="/images/increase.svg" alt="" />
                         </div>
                     </div>
                     <div className="right-side-header-block-2 ">
