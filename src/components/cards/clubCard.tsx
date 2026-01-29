@@ -21,7 +21,7 @@ export default function ClubCard() {
         </div>
 
         {/* Нижняя часть с контентом */}
-        <div className="bottom-side-club flex flex-col justify-between p-4">
+        <div className="bottom-side-club flex flex-col  justify-between sm:h-[50%] md:h-[50%] lg:h-[50%] p-4">
           <p className="text-white text-[20px] sm:text-[22px] md:text-[24px]">Flux Gaming Arena</p>
 
           <div className="stars-group flex gap-[10px] items-center">

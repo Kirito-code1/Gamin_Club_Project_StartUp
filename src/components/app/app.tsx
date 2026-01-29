@@ -88,7 +88,6 @@ export default function App() {
             ">
                 <div className="inner-block-3
                 px-[20px]
-                   border border-red-800
                 ">
                     <div className="header-clubs
                     text-center

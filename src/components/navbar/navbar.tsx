@@ -28,12 +28,17 @@ export default function Navbar() {
                              bg-gradient-to-br from-[#06B6D4] to-[#9333EA]
                              shadow-[0_4px_10px_0_#06B6D480]
                              ">PC</p>
-                        <p className="
-                        logo-text
-                        text-[24px]
-                        bg-gradient-to-r from-[#22D3EE] to-[#A855F7] bg-clip-text text-transparent
-                        ">CyberClubs</p>
-                    </div>
+                          <p className="
+    logo-text
+    text-[24px]
+    bg-gradient-to-r from-[#22D3EE] to-[#A855F7]
+    bg-clip-text text-transparent
+    hidden md:block
+">
+                              CyberClubs
+                          </p>
+
+                      </div>
                         <div className="center-side-nav relative w-[630px] hidden lg:block">
                             <input
                                 type="text"
